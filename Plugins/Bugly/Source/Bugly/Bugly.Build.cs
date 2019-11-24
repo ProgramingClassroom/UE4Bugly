@@ -9,8 +9,6 @@ public class Bugly : ModuleRules
 	{
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 
-		PublicIncludePaths.Add("Bugly/Public");
-		PrivateIncludePaths.Add("Bugly/Private");
 		if (Target.Platform == UnrealTargetPlatform.IOS)
 		{
 			PrivateIncludePaths.Add("Bugly/Private/IOS");

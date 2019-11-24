@@ -64,8 +64,8 @@ iOS 测试接口
 
 ### 目前使用的版本 ###
 
-* Android NDK: 3.3.1
-* Android SDK: 2.6.6
+* Android NDK: 3.7.1
+* Android SDK: 3.1.0
 * iOS SDK: 2.5.0
 
 ### 更新 Android SDK ###

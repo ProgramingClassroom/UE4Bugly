@@ -10,7 +10,6 @@ public class BuglyEditor : ModuleRules
 
 		PublicIncludePaths.AddRange(
 			new string[] {
-				"BuglyEditor/Public"
 				// ... add public include paths required here ...
 			}
 			);
@@ -18,7 +17,6 @@ public class BuglyEditor : ModuleRules
 
 		PrivateIncludePaths.AddRange(
 			new string[] {
-				"BuglyEditor/Private",
 				// ... add other private include paths required here ...
 			}
 			);
